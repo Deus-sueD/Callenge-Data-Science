@@ -1,0 +1,1 @@
+# Este es un proyecto desarrollado para probar las habilidades en data science obtenidas hasta el momento
